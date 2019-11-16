@@ -1,3 +1,17 @@
 body {
     width: 100%;
+    background-image: url(../assets/images/DSC_4834.JPG);
+}
+
+.portImage {
+    width: 100%;
+}
+
+
+.brand-logo {
+    margin-left: 50px;
+}
+
+.col {
+    margin-top: 100px;
 }
